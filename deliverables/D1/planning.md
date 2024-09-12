@@ -40,7 +40,7 @@
 
  * At least 5 user stories concerning the main features of the application - note that this can broken down further
  * You must follow proper user story format (as taught in lecture) ```As a <user of the app>, I want to <do something in the app> in order to <accomplish some goal>```
- * User stories must contain acceptance criteria. Examples of user stories with different formats can be found here: https://www.justinmind.com/blog/user-story-examples/. **It is important that you provide a link to an artifact containing your user stories**.
+ * User stories must contain acceptance criteria. Examples of user stories with different formats can be found here: https://www.justinmind.com/blog/user-story-examples/. **If you are using a 3rd-party tool to manage user stories, it is important that you provide a link to the tool**.
  * If you have a partner, these must be reviewed and accepted by them. You need to include the evidence of partner approval (e.g., screenshot from email) or at least communication to the partner (e.g., email you sent)
 
 #### Q5: Have you decided on how you will build it? Share what you know now or tell us the options you are considering.
